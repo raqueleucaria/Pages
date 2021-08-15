@@ -36,4 +36,4 @@ Aqui apresentamos uma lista de projetos feitos pelo grupo.
 
 ### Interaciômetro
 
-O Interaciômetro é um "medidor" de interação entre perfis no Twitter. Feito usando Python e a API do Twitter, ele pode ser acessado em [https://interaciometro.herokuapp.com/](https://interaciometro.herokuapp.com/) e seu código fonte, aberto, pode ser acessado [aqui](https://github.com/gp2w/interaciometro).
+

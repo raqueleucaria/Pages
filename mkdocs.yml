@@ -1,0 +1,27 @@
+# Project information
+site_name: "Super Agenda"
+site_author: "Grupo 03"
+site_url: "https://sfernandos.github.io/Agenda-G3/"
+
+# Repository
+repo_name: "Super Agenda"
+repo_url: "https://github.com/SFernandoS/Agenda-G3"
+
+theme: readthedocs
+
+# Content Menu
+nav:
+  - Projeto: "Em breve"
+    
+  - Product Backlog: 
+    - versão 1.0: "project/product-backlog.md"
+  - Design:
+    - Protótipo de Baixa Fidelidade: "Em breve"
+    - Protótio de Média Fidelidade: "Em breve"
+  - Gerência: 
+    - Cronograma: "management/schedule.md"
+    - Revezamento Scrum: "management/scrum-relay.md"
+    - Plano Metodológico: "Em breve"
+    - Plano de comunicação: "Em breve"
+  - Pontos de Controle:
+    - Ponto de Controle 1: "Em breve" 
